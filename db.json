@@ -1,0 +1,216 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "user@gmail.com",
+      "password": "password123",
+      "name": "User Biasa",
+      "role": "user"
+    },
+    {
+      "id": "2",
+      "email": "admin@gmail.com",
+      "password": "password123",
+      "name": "Admin Keren",
+      "role": "admin"
+    },
+    {
+      "name": "Jarr",
+      "email": "mfajarsidik64@gmail.com",
+      "password": "Tokodewi123",
+      "role": "user",
+      "id": "H64GtOL"
+    }
+  ],
+  "hotels": [
+    {
+      "id": "1",
+      "name": "Hotel Mewah Jakarta",
+      "city": "Jakarta",
+      "price": 1200000,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "short_description": "Nikmati kemewahan bintang 5 di jantung kota metropolitan.",
+      "description": "Hotel bintang 5 di pusat kota dengan fasilitas lengkap, kolam renang, restoran mewah, dan layanan spa eksklusif. Setiap kamar dilengkapi dengan pemandangan kota yang menakjubkan.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=200",
+        "https://images.unsplash.com/photo-1542314831-068cd1dbb5eb?w=200",
+        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=200"
+      ],
+      "facilities": [
+        "WiFi",
+        "Pool",
+        "AC",
+        "Restaurant",
+        "Parking"
+      ],
+      "map_location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.471694254884!2d106.82434931476902!3d-6.201655695509743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f3e4b3f8b3c9%3A0x2e69f3e4b3f8b3c9!2sGrand%20Hyatt%20Jakarta!5e0!3m2!1sen!2sid!4v1626883199858!5m2!1sen!2sid"
+    },
+    {
+      "id": "2",
+      "name": "Villa Asri Bali",
+      "city": "Bali",
+      "price": 2500000,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+      "short_description": "Villa eksklusif dengan kolam renang pribadi dan pemandangan laut.",
+      "description": "Villa pribadi dengan pemandangan pantai yang menakjubkan, cocok untuk liburan keluarga. Dilengkapi dengan dapur modern dan layanan butler 24 jam.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=200",
+        "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=200",
+        "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=200"
+      ],
+      "facilities": [
+        "WiFi",
+        "Pool",
+        "AC",
+        "Parking"
+      ],
+      "map_location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3944.146979519183!2d115.17293931478408!3d-8.67823699376606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd2409f0a8c23f7%3A0x2dd2409f0a8c23f7!2sSeminyak%20Beach!5e0!3m2!1sen!2sid!4v1626883301987!5m2!1sen!2sid"
+    },
+    {
+      "id": "3",
+      "name": "Resort Sejuk Bandung",
+      "city": "Bandung",
+      "price": 950000,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800",
+      "short_description": "Rasakan kesejukan alam pegunungan dengan kenyamanan modern.",
+      "description": "Nikmati udara sejuk Bandung di resort kami yang nyaman dengan pemandangan pegunungan. Cocok untuk getaway dari hiruk pikuk kota.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=200",
+        "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=200",
+        "https://images.unsplash.com/photo-1590490359852-595d68491cdf?w=200"
+      ],
+      "facilities": [
+        "WiFi",
+        "AC",
+        "Restaurant"
+      ],
+      "map_location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.902348560945!2d107.6183353147728!3d-6.902206995012589!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e64c5e8d9e2b%3A0x2e68e64c5e8d9e2b!2sGedung%20Sate!5e0!3m2!1sen!2sid!4v1626883344655!5m2!1sen!2sid"
+    },
+    {
+      "id": "4",
+      "name": "The Alana Yogyakarta",
+      "city": "Yogyakarta",
+      "price": 850000,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800",
+      "short_description": "Kenyamanan modern bertemu dengan budaya Jawa yang kental.",
+      "description": "Terletak strategis di Yogyakarta, The Alana menawarkan akses mudah ke candi-candi bersejarah dan pusat kota. Nikmati kolam renang kami yang megah dan masakan otentik.",
+      "gallery": [],
+      "facilities": [
+        "WiFi",
+        "Pool",
+        "AC",
+        "Restaurant"
+      ],
+      "map_location": ""
+    },
+    {
+      "id": "5",
+      "name": "Hotel Ciputra Surabaya",
+      "city": "Surabaya",
+      "price": 980000,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=800",
+      "short_description": "Kemewahan dan akses langsung ke pusat perbelanjaan terbesar.",
+      "description": "Ideal untuk pelancong bisnis dan liburan, hotel kami terhubung langsung dengan Ciputra World Mall. Fasilitas bisnis yang lengkap dan kamar yang nyaman menanti Anda.",
+      "gallery": [],
+      "facilities": [
+        "WiFi",
+        "AC",
+        "Restaurant",
+        "Parking"
+      ],
+      "map_location": ""
+    },
+    {
+      "id": "ywWuZ1u",
+      "name": "Premiere Hotel Tegal",
+      "city": "Kota Tegal",
+      "price": 550000,
+      "rating": 4.2,
+      "image": "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/20010447-af66f2190ded424a70e66468589aa7fd.jpeg?w=800",
+      "short_description": "Pilihan utama untuk pebisnis di pusat kota Tegal.",
+      "description": "Semua fasilitas lengkap dan nyaman untuk perjalanan bisnis maupun liburan Anda. Lokasi strategis dekat dengan pusat pemerintahan dan bisnis.",
+      "gallery": [],
+      "facilities": [
+        "WiFi",
+        "AC",
+        "Parking",
+        "Restaurant"
+      ],
+      "map_location": ""
+    },
+    {
+      "id": "aSxVq-6",
+      "name": "Hotel Karlita International",
+      "city": "Kota Tegal",
+      "price": 650000,
+      "rating": 4.1,
+      "image": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/31/0f1db397-5f24-4966-b6db-e814e05f54f9-1604124616510-cd63adcdd5e0249b8cd70a872685764c.jpg",
+      "short_description": "Kenyamanan klasik dengan layanan yang ramah.",
+      "description": "Nyaman dan fasilitas lengkap, Hotel Karlita telah menjadi ikon perhotelan di Tegal selama bertahun-tahun. Dilengkapi kolam renang yang luas.",
+      "gallery": [],
+      "facilities": [
+        "WiFi",
+        "AC",
+        "Pool",
+        "Restaurant"
+      ],
+      "map_location": ""
+    },
+    {
+      "id": "tqzeV3Y",
+      "name": "Primebiz Hotel Tegal",
+      "city": "Kota Tegal",
+      "price": 500000,
+      "rating": 4.3,
+      "image": "https://static.logitravel.com/cloudcontent/fotos/agregadorHotelero/0029/46955/2946955/1.jpg?f=16700954",
+      "short_description": "Desain modern dan efisien untuk para pelancong.",
+      "description": "Hotel modern dengan fasilitas yang memadai untuk kebutuhan anda. Terkenal dengan sarapan yang lezat dan kamar yang bersih.",
+      "gallery": [],
+      "facilities": [
+        "WiFi",
+        "AC",
+        "Restaurant",
+        "Parking"
+      ],
+      "map_location": ""
+    },
+    {
+      "id": "bahari-inn",
+      "name": "Bahari Inn Tegal",
+      "city": "Kota Tegal",
+      "price": 450000,
+      "rating": 4,
+      "image": "https://www.belairadventures.com/images/detail-slider/bahari1.jpg",
+      "short_description": "Hotel legendaris dengan nuansa resort di tepi pantai.",
+      "description": "Salah satu hotel paling terkenal di Tegal, Bahari Inn menawarkan suasana resort dengan akses mudah ke pantai dan pusat kuliner.",
+      "gallery": [],
+      "facilities": [
+        "WiFi",
+        "Pool",
+        "AC",
+        "Restaurant"
+      ],
+      "map_location": ""
+    }
+  ],
+  "bookings": [
+    {
+      "userId": "H64GtOL",
+      "hotelId": "2",
+      "hotelName": "Villa Asri Bali",
+      "hotelImage": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+      "pricePerNight": 2500000,
+      "numberOfNights": 2,
+      "totalPrice": 5000000,
+      "checkIn": "2025-07-15",
+      "checkOut": "2025-07-17",
+      "status": "Confirmed",
+      "id": 1
+    }
+  ]
+}
